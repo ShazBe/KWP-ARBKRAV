@@ -1,0 +1,22 @@
+.gif {
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 75%;
+    left: 35%;
+}
+.text {
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 90%;
+    color: aliceblue;
+    font-family: sans-serif; 
+}
+.logo:hover {
+        
+}
